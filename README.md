@@ -16,10 +16,10 @@ Sentiment is evaluated using prompt-based querying over indexed transcripts, pow
 ## 🖼️ Demo Screenshots
 
 ### Dashboard View – Sentiment Analysis for Q1 2025
-![Dashboard Screenshot](./screenshots/Screenshot%202025-07-31%20at%204.32.08%20PM.png)
+![Dashboard Screenshot](./screenshots/1.png)
 
 ### Strategic Focuses and Sentiment Trend
-![Trend Screenshot](./screenshots/Screenshot%202025-07-31%20at%204.32.25%20PM.png)
+![Trend Screenshot](./screenshots/2.png)
 
 ## 🛠️ Tech Stack
 
